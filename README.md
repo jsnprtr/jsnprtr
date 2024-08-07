@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+
+[React](https://react.dev/) [TypeScript](https://www.typescriptlang.org/)
+- 🌱 I’m currently learning ...
+
+[P5JS](https://p5js.org/) [Ruby on Rails](https://rubyonrails.org/) 
+- 👯 I’m looking to collaborate on ...
+
+Anything that will keep my Java skills sharp, interested in Search proejcts using [Lucene](https://lucene.apache.org/) or [Solr](https://solr.apache.org/).
+Available also for interesting TypeScript / React projects.
+- 📫 How to reach me: ...
+
+[LinkedIn](https://de.linkedin.com/in/porterjason) 
+
 <!--
 **jsnprtr/jsnprtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
